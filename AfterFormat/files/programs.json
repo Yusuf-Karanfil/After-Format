@@ -1,0 +1,19 @@
+{
+  "tarayici": [
+    { "id": "Google.Chrome",               "name": "Google Chrome" }
+  ],
+  "gelistirici": [
+    { "id": "Microsoft.VisualStudioCode",  "name": "VS Code" },
+    { "id": "Microsoft.PowerShell",        "name": "PowerShell 7" },
+    { "id": "Microsoft.WindowsTerminal",   "name": "Windows Terminal" },
+    { "id": "Python.Python.3.12",          "name": "Python 3.12" },
+    { "id": "TimKosse.FileZilla3",         "name": "FileZilla" }
+  ],
+  "medya": [
+    { "id": "VideoLAN.VLC",               "name": "VLC" }
+  ],
+  "arac": [
+    { "id": "AnyDeskSoftwareGmbH.AnyDesk","name": "AnyDesk" },
+    { "id": "RARLab.WinRAR",              "name": "WinRAR" }
+  ]
+}
