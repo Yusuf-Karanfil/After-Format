@@ -1,7 +1,6 @@
 ================================================================
   AFTER FORMAT — FORMAT SONRASI OTOMATIK KURULUM ARACI
 ================================================================
-================================================================
 
   Bu araç, yeni formatlanmış bir Windows kurulumunu;
   - Gereksiz uygulamalardan arındırır
