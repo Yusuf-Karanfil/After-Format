@@ -12,7 +12,7 @@ $banner = @"
 ################################################################
 #                                                              #
 #   SCRIPT 1/3 — SURUCUDEN ONCE                                #
-#   Baslangic: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')                        #
+#   Baslangic: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')       #
 #                                                              #
 ################################################################
 
