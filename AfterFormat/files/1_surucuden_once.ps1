@@ -1,5 +1,5 @@
 # ================================================
-#  AFTER FORMAT — 1/3: SURUCUDEN ONCE
+#  AFTER FORMAT — 1/3: SURUCUDEN ONCE.
 #  Chrome Kur + Varsayilan Tarayici Ayarla
 # ================================================
 
