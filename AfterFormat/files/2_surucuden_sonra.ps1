@@ -1,5 +1,5 @@
 # ================================================
-#  AFTER FORMAT — 2/3: SURUCUDEN SONRA
+#  AFTER FORMAT — 2/3: SURUCUDEN SONRA.
 #  Programlar + Sistem Ayarlari + Bloatware
 # ================================================
 
