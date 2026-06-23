@@ -9,12 +9,12 @@ $logFile = "$rootDir\log.txt"
 
 $banner = @"
 
-################################################################
-#                                                              #
-#   SCRIPT 1/3 — SURUCUDEN ONCE                                #
-#   Baslangic: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')       #
-#                                                              #
-################################################################
+#################################################################
+#                                                               #
+#   SCRIPT 1/3 — SURUCUDEN ONCE                                 #
+#   Baslangic: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')        #
+#                                                               #
+#################################################################
 
 "@
 Add-Content -Path $logFile -Value $banner
