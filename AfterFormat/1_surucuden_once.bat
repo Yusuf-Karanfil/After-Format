@@ -1,5 +1,5 @@
 @echo off
-title After Format - 1/3: Surucuden Once.bat
+title After Format - 1/3: Surucuden Once
 cd /d "%~dp0"
 
 net session >nul 2>&1
