@@ -1,5 +1,5 @@
 @echo off
-title After Format - 2/3: Surucuden Sonra.bat
+title After Format - 2/3: Surucuden Sonra
 cd /d "%~dp0"
 
 net session >nul 2>&1
